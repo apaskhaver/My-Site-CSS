@@ -1,9 +1,14 @@
 body {
   margin: 0;
+  text-align: center;
 }
 
 .top-container {
   background-color: #f5a25d;
+}
+
+.pro {
+  text-decoration: underline;
 }
 
 .middle-container {
