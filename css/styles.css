@@ -35,6 +35,11 @@ h3 {
   right: 500px;
 }
 
+.web-dev {
+  height: 200px;
+  width: 300px;
+}
+
 .bottom-cloud {
   position: absolute;
   bottom: 300px;
